@@ -9,7 +9,7 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 | **Bitcoin-1**                                    | **[Ethereum-2](README_TestNet.md#Ethereum)**          | **[Ontology-3](README_TestNet.md#Ontology)**       | **[Neo N2-5](README_TestNet.md#NeoN2)**        | **Switcheo-**                                 |
 |:-------------------------------------------------|:------------------------------------------------------|:---------------------------------------------------|:-----------------------------------------------|:----------------------------------------------|
 | **[Bsc-79](README_TestNet.md#BSC)**              | **[Heco-7](README_TestNet.md#HECO)**                  | **[Palette-107](README_TestNet.md#Palette)**       | **[Ok-200](README_TestNet.md#Ok)**             | **Curve-82**                                  |
-| **[Neo N3-88](README_TestNet.md#NeoN3)**         | **[Polygon-202](README_TestNet.md#Polygon)**          | **[Zilliqa-111](README_TestNet.md#Zilliqa)**       | **[Arbitrum-205](README_TestNet.md#Arbitrum)** | **[Gnosis-206](README_TestNet.md#Gnosis)**        |
+| **[Neo N3-888](README_TestNet.md#NeoN3)**        | **[Polygon-202](README_TestNet.md#Polygon)**          | **[Zilliqa-111](README_TestNet.md#Zilliqa)**       | **[Arbitrum-205](README_TestNet.md#Arbitrum)** | **[Gnosis-206](README_TestNet.md#Gnosis)**        |
 | **[Avalanche-209](README_TestNet.md#Avalanche)** | **[Fantom-208](README_TestNet.md#Fantom)**            | **[Optimism-210](README_TestNet.md#Optimism)** | **[Metis-300](README_TestNet.md#Metis)**       | **[Goerli-502](README_TestNet.md#Goerli)**    |
 | **[Rinkeby-402](README_TestNet.md#Rinkeby)**     | **[Kovan-302](README_TestNet.md#Kovan)**              | **[Pixie-316](README_TestNet.md#Pixie)**           | **[Starcoin-318](README_TestNet.md#Starcoin)** | **[OntEvm-333](README_TestNet.md#OntEvm)**    |
 | **[Boba-400](README_TestNet.md#Boba)**           | **[Oasis-500](README_TestNet.md#Oasis)**              | **[Hsc-603](README_TestNet.md#Hsc)**               | **[Bytom-701](README_TestNet.md#Bytom)**       | **[Harmony-800](README_TestNet.md#Harmony)**  | 
@@ -211,19 +211,13 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 
 | Type           | Contract Hash                              | Desc                                     |
 |----------------|--------------------------------------------|------------------------------------------|
-| Wrapper        |                                            |                                          |
-| Nep17Proxy     | 0x4487494dac2f7eb68bdae009cacd6de88243e542 | 42e54382e86dcdca09e0da8bb67e2fac4d498744 | The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx |
-| CCMC           | 0x618d44dc3af16c6120dbf65402024f40a04f772a | 2a774fa0404f020254f6db20616cf13adc448d61 | Cross Chain Manager Contract                                                                                      |
-| NFT Lock Proxy | 0x7acd03102216db84993710cafb924e48a2259e1a | 1a9e25a2484e92fbca10379984db16221003cd7a |
-| NFT cat1       | 0xd74d35311c2a20ba78cd12056d3017da5bd352a6 | a652d35bda17306d0512cd78ba202a1c31354dd7 |
+| Wrapper        | 0xc3ac0347e9c4f65b7fff383201a1551da4301e09 | 091e30a41d55a1013238ff7f5bf6c4e94703acc3 |
+| Nep17Proxy     | 0x5acbc9b138649cf4ff99ce9d34800537a6cff60d | 0df6cfa6370580349dce99fff49c6438b1c9cb5a | The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx |
+| CCMC           | 0xa42b4eaa62d44047a2c0e0081b50013620cacf83 | 83cfca203601501b08e0c0a24740d462aa4e2ba4 | Cross Chain Manager Contract                                                                                      |
+| NFT Lock Proxy | 0x50ccb797f4fe825767656facab8fb7853a806ff8 | f86f803a85b78fabac6f65675782fef497b7cc50 |
+| NFT Wrapper    | 0x6187d315b2ba2aadd52d88955d23a840473d5e25 | 255e3d4740a8235d95882dd5ad2abab215d38761 |
 | NEO            | 0xef4073a0f2b305a38ec4050e4d3d28bc40ea63f5 | f563ea40bc283d4d0e05c48ea305b3f2a07340ef |
 | GAS            | 0xd2a4cff31913016155e38e474a2c06d08be276cf | cf76e28bd0062c4a478ee35561011319f3cfa4d2 |
-| bNEO           | 0x48c40d4666f93408be1bef038b6722404d9a4c2a | 2a4c9a4d4022678b03ef1bbe0834f966460dc448 |
-| FLM            | 0x1415ab3b409a95555b77bc4ab6a7d9d7be0eddbd | bddd0ebed7d9a7b64abc775b55959a403bab1514 |
-| fUSDT          | 0x83c442b5dc4ee0ed0e5249352fa7c75f65d6bfd6 | d6bfd6655fc7a72f3549520eede04edcb542c483 |
-| fWBTC          | 0xad97a439b4a035184d1ab46a07ee75687f541237 | 3712547f6875ee076ab41a4d1835a0b439a497ad |
-| fWETH          | 0x38a2aace91f92b979207c0dd50a857c117d4785b | 5b78d417c157a850ddc00792972bf991ceaaa238 |
-| pONT           | 0x74ba424c768dbbb64ce02f7786137cdd4a5dc27b | 7bc25d4add7c1386772fe04cb6bb8d764c42ba74 |
 ###### [Back to top](README_TestNet.md#menu)
 ## Note 
 `B` means big-endian, we can search the contract transaction history in corresponding explorer.
