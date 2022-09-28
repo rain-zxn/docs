@@ -14,7 +14,7 @@ This's cross chain asset contract info ONLY in <strong>MAINNET</strong> mode, it
 | **[Avalanche-21](README.md#Avalanche)**    | **[Fantom-22](README.md#Fantom)**           | **[Optimism-23](README.md#Optimism)** | **[Metis-24](README.md#Metis)**       | **[Boba-25](README.md#Boba)**          |
 | **[Oasis-26](README.md#Oasis)**            | **[Harmony-27](README.md#Harmony)**         | **[Hsc-28](README.md#Hsc)**               | **[Bytom-29](README.md#Bytom)**       | **[Kcc-30](README.md#Kcc)**            |
 | **[Starcoin-31](README.md#Starcoin)**      |**[Kava-32](README.md#Kava)**                | **[Cube-35](README.md#Cube)**             | **[Celo-36](README.md#Celo)**             | **[Clover-37](README.md#Clover)**             |
-**[Conflux-38](README.md#Conflux)**             |
+**[Conflux-38](README.md#Conflux)**             |**[Ripple-39](README.md#Ripple)**             |**[Astar-40](README.md#Astar)**             |
 
 
 ### Quick Index
@@ -778,6 +778,16 @@ Type | Denom (coin name) | Asset/Contract Hash | Desc
 | Wrapper               | 0x5906777d34257a2b479c291871C9BFdFB922D67D  |                                         |
 
 ###### [Back to top](README.md#menu)
+## Astar
+| Type                  | Contract Hash                               | Desc                                    |
+|-----------------------|---------------------------------------------|-----------------------------------------|
+| CCD                   | 0x4D2A3234b2f2E27f03096097C4A530CAA8427681  | Cross Chain Data contract hash          |
+| CCM                   | 0xab7a3CA9bDcE476F0ECC04c127CFEe0F3D212BC5  | Eth Cross Chain Manager                 |
+| CCMP                  | 0x85472B4D353Cb89f86294b2e983ba44722bC0331  | Cross Chain Manager Proxy contract hash |
+| LockProxy             | 0x526444013Cd4D457212fF88Fe6F8e7c995DF1E40  |                                         |
+| Wrapper               | 0x5906777d34257a2b479c291871c9bfdfb922d67d  |                                         |
+
+###### [Back to top](README.md#menu)
 ## Router And ChainId
 |    Type    | Router Number |  ChainId  |
 |:----------:|:-------------:|:---------:|
@@ -813,6 +823,8 @@ Type | Denom (coin name) | Asset/Contract Hash | Desc
 |    Celo    |       0       |    36     |
 |    Clover  |       0       |    37     |
 |    Conflux  |       0       |    38    |
+|    Ripple |       0       |    39    |
+|    Astar  |       0       |    40    |
 
 ###### [Back to top](README.md#menu)
 ## Relayers
