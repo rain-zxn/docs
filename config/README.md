@@ -264,6 +264,7 @@ This's cross chain asset contract info ONLY in <strong>MAINNET</strong> mode, it
 | Lock Proxy       | 0x2f7ac9436ba4B548f9582af91CA1Ef02cd2F1f03   | BSC Asset Proxy contract hash                   |
 | Lock Proxy_1     | 0xfB571d4dd7039f96D34bB41E695AdC92dF4A332f   | BSC Asset Proxy contract hash                   |
 | Lock Proxy-PIP4  | 0x960Ff3132b72E3F0b1B9F588e7122d78BB5C4946   | BSC Asset Proxy with LP contract hash           |
+| Lock Proxy-n3   | 0x12BB90a4bAA8FD125794E34dAFfeC109aB63Dfb4   | BSC Asset Proxy contract hash for n3                  |
 | Poly Wrapper     | 0xE3D0FB6E3cB5DA61EB18b06D035052441009d1E6   | lock entrance for auto cross chain tx with fee  |
 | WrapperV2        | 0x4b0CFdb5e1Ca898a225F9E14AfF9e4eF178a10d2   | wrapper_v2 that take native asset as fee        |
 | WrapperV3        | 0xbc3B4E7517c06019F30Bf2f707eD2770b85f9928   | wrapper_v3 that take native asset as fee        |
