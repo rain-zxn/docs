@@ -250,7 +250,8 @@ This's cross chain asset contract info ONLY in <strong>MAINNET</strong> mode, it
 | pONT        | B:	0x8122bc2212ec971690a044b37a6f52a9349b702b </br> L:	2b709b34a9526f7ab344a0901697ec1222bc2281 |                              |
 | GM          | B:	0x9b049f1283515eef1d3f6ac610e1595ed25ca3e9 </br> L:	e9a35cd25e59e110c66a3f1def5e5183129f049b |                              |
 | fCAKE       | B:	0xe65b462b90516012826f8a9c4c285d8c750e3a77 </br> L:	773a0e758c5d284c9c8a6f82126051902b465be6 |                              |
-| Wrapper     | f8328398c4c8e77b6c5843f5e404be0170d5012e                                                        |                              |
+| fBNB       | B:	0xb56f0fba45cc57a948b342186274dfd863996bb3 </br> L:	b36b9963d8df74621842b348a957cc45ba0f6fb5 |                              |
+| PolyWrapper     | B:	0xf8328398c4c8e77b6c5843f5e404be0170d5012e </br> L:	2e01d57001be04e4f543586c7be7c8c4988332f8 |                              |
 
 ###### [Back to top](README.md#menu)
 ## Binance Smart Chain
