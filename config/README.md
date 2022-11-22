@@ -800,6 +800,7 @@ Type | Denom (coin name) | Asset/Contract Hash | Desc
 | CCMP                  | 0x85472B4D353Cb89f86294b2e983ba44722bC0331  | Cross Chain Manager Proxy contract hash |
 | LockProxy             | 0x526444013Cd4D457212fF88Fe6F8e7c995DF1E40  |                                         |
 | WrapperV3               | 0x5906777d34257a2b479c291871C9BFdFB922D67D  |                                         |
+| USDC               | 0xeE448bc6A8dC14D1Faa2Bfa567f1874f1B62C267  |                                         |
 
 ###### [Back to top](README.md#menu)
 ## Router And ChainId
