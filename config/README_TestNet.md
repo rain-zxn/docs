@@ -6,7 +6,7 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 
 ### Contract Index(Chain-Chain Id)
 
-| **Bitcoin-1**                                    | **[Ethereum-2](README_TestNet.md#Ethereum)**          | **[Ontology-3](README_TestNet.md#Ontology)**       | **[Neo N2-5](README_TestNet.md#NeoN2)**        | **Switcheo-**                                 |
+| **Bitcoin-1**                                    | **[Ropsten-2](README_TestNet.md#Ethereum)**          | **[Ontology-3](README_TestNet.md#Ontology)**       | **[Neo N2-5](README_TestNet.md#NeoN2)**        | **Switcheo-**                                 |
 |:-------------------------------------------------|:------------------------------------------------------|:---------------------------------------------------|:-----------------------------------------------|:----------------------------------------------|
 | **[Bsc-79](README_TestNet.md#BSC)**              | **[Heco-7](README_TestNet.md#HECO)**                  | **[Palette-107](README_TestNet.md#Palette)**       | **[Ok-200](README_TestNet.md#Ok)**             | **Curve-82**                                  |
 | **[Neo N3-888](README_TestNet.md#NeoN3)**        | **[Polygon-202](README_TestNet.md#Polygon)**          | **[Zilliqa-111](README_TestNet.md#Zilliqa)**       | **[Arbitrum-215](README_TestNet.md#Arbitrum)** | **[Gnosis-206](README_TestNet.md#Gnosis)**        |
@@ -29,7 +29,7 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 
 
 ###### [Back to top](README_TestNet.md#menu)
-## Ethereum
+## Ropsten
 
 | Type                   | Contract Hash                                | Desc                                                                     |
 |------------------------|----------------------------------------------|--------------------------------------------------------------------------|
@@ -643,7 +643,7 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 |     Type      | Router Number |   ChainId    |
 |:-------------:|:-------------:|:------------:|
 |    Bitcoin    |       1       |      1       |
-|   Ethereum    |       0       |      2       |
+|   Ropsten    |       0       |      2       |
 |   Ontology    |       3       |      3       |
 |    NEO(N2)    |       4       |      5       |
 |   Switcheo    |       5       | release soon |
