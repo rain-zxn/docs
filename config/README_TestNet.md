@@ -16,7 +16,7 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 | **[Kcc-900](README_TestNet.md#Kcc)**             | **[BCS Palette-1001](README_TestNet.md#BCS-Palette)** | **[Milkomeda-810](README_TestNet.md#Milkomeda)**   | **[BCS Palette 2-1002](README_TestNet.md#BCS-Palette-2)** | **[Kava-920](README_TestNet.md#Kava)**         |
 | **[Cube-930](README_TestNet.md#Cube)**           |**[zkSync-940](README_TestNet.md#zkSync)**           |**[Celo-960](README_TestNet.md#Celo)**           |**[Clover-970](README_TestNet.md#Clover)**           |**[Conflux-980](README_TestNet.md#Conflux)**           |
 | **[Palette2-108](README_TestNet.md#Palette2)**           | **[Astar-990](README_TestNet.md#Astar)**           | **[Ripple-223](README_TestNet.md#Ripple)**           |**[Aptos-998](README_TestNet.md#Aptos)**           |**[Bitgert-1010](README_TestNet.md#Bitgert)** |
-|**[Dexit-1020](README_TestNet.md#Dexit)**           |**[CloudTx-1030](README_TestNet.md#CloudTx)**           ||||
+|**[Dexit-1020](README_TestNet.md#Dexit)**           |**[CloudTx-1030](README_TestNet.md#CloudTx)**           | **[Cronos-1080](README_TestNet.md#Cronos)**   |||
 ### Quick Index
 
 | **[Router And ChainId](README_TestNet.md#Router-And-ChainId)**   | **[Decentralized Application TestNet Nodes](README_TestNet.md#Decentralized-Application-TestNet-Nodes)**   |
@@ -659,6 +659,23 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 | WrapperV3  | 0xc2d365475EEf3ec83e59D1BcDF3A291D7B23Ba99 |                                           |
 
 ###### [Back to top](README_TestNet.md#menu)
+## Cronos
+| Type       | Contract Hash                              | Desc                                      |
+|------------|--------------------------------------------|-------------------------------------------|
+| CCD        | 0x9D02d1399E19ba7FBe0b9f5e7D70cd587A3E5C73 | Cross Chain Data contract hash            |
+| CCM        | 0x2eE29A1587cF0F68dA743D4BDF046D6652A2346f | Cross Chain Manager contract hash         |
+| CCMP       | 0x7663ad3BbF262812928D2E7B81262DB74fC5B02f | Cross Chain Manager Proxy contract hash   |
+| Lock Proxy | 0x61298b6fE3De7b77C4560a621bc54449077524B3 | Proxy contract hash                       |
+| WrapperV3  | 0x8Ad22596CB5438ec244abc6a63f3d24307EF0D30 |
+
+| Type         | Desc                                       | 
+|--------------|--------------------------------------------|
+| Docs         | https://docs.cronos.org/                   |
+| Rpc          | https://evm-t3.cronos.org                  |
+| Explorer URL | https://cronos.org/explorer/testnet3/      |
+| Token Symbol | CRO                                       |
+
+###### [Back to top](README_TestNet.md#menu)
 ## Router And ChainId
 |     Type      | Router Number |   ChainId    |
 |:-------------:|:-------------:|:------------:|
@@ -710,4 +727,5 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 |   Bitgart    |       0       |     1010      |
 |  Dexit   |       0       |     1020      |
 |  CloudTx   |       0       |     1030      |
+|  Cronos   |       0       |     1080      |
 ###### [Back to top](README_TestNet.md#menu)
