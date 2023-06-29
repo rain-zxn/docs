@@ -16,7 +16,7 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 | **[Kcc-900](README_TestNet.md#Kcc)**             | **[BCS Palette-1001](README_TestNet.md#BCS-Palette)** | **[Milkomeda-810](README_TestNet.md#Milkomeda)**   | **[BCS Palette 2-1002](README_TestNet.md#BCS-Palette-2)** | **[Kava-920](README_TestNet.md#Kava)**         |
 | **[Cube-930](README_TestNet.md#Cube)**           |**[zkSync-940](README_TestNet.md#zkSync)**           |**[Celo-960](README_TestNet.md#Celo)**           |**[Clover-970](README_TestNet.md#Clover)**           |**[Conflux-980](README_TestNet.md#Conflux)**           |
 | **[Palette2-108](README_TestNet.md#Palette2)**           | **[Astar-990](README_TestNet.md#Astar)**           | **[Ripple-223](README_TestNet.md#Ripple)**           |**[Aptos-998](README_TestNet.md#Aptos)**           |**[Bitgert-1010](README_TestNet.md#Bitgert)** |
-|**[Dexit-1020](README_TestNet.md#Dexit)**           |**[CloudTx-1030](README_TestNet.md#CloudTx)**           | **[Cronos-1080](README_TestNet.md#Cronos)**   |||
+|**[Dexit-1020](README_TestNet.md#Dexit)**           |**[CloudTx-1030](README_TestNet.md#CloudTx)**           | **[Cronos-1080](README_TestNet.md#Cronos)**   | **[OKB Chain-1090](README_TestNet.md#OKB Chain)**||
 ### Quick Index
 
 | **[Router And ChainId](README_TestNet.md#Router-And-ChainId)**   | **[Decentralized Application TestNet Nodes](README_TestNet.md#Decentralized-Application-TestNet-Nodes)**   |
@@ -676,6 +676,23 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 | Token Symbol | CRO                                       |
 
 ###### [Back to top](README_TestNet.md#menu)
+## OKB Chain
+| Type       | Contract Hash                              | Desc                                      |
+|------------|--------------------------------------------|-------------------------------------------|
+| CCD        | 0xd4E64A290cCEb9262658115A4e2f1D2a625A9ad6 | Cross Chain Data contract hash            |
+| CCM        | 0xcA4AA19E71cf470Cfd694cABF7503C68C6446721 | Cross Chain Manager contract hash         |
+| CCMP       | 0xE20cdfF3Ad9b76C5f1Dd695d3cbcEC55ceA34355 | Cross Chain Manager Proxy contract hash   |
+| Lock Proxy | 0x9521dff2fB9B6CfC4c22e78642C3a49E180cD37D | Proxy contract hash                       |
+| WrapperV3  | 0x95021d9f67cCE8A7c058A9AE3173E2BCbA4c845a |
+
+| Type         | Desc                                       | 
+|--------------|--------------------------------------------|
+| Docs         | https://www.okx.com/cn/okbc/docs/dev/resources/references/okbchain-quick-access|
+| Rpc          | https://okbtestrpc.okbchain.org/                 |
+| Explorer URL | https://www.oklink.com/cn/okbc-test        |
+| Token Symbol | OKB                                       |
+
+###### [Back to top](README_TestNet.md#menu)
 ## Router And ChainId
 |     Type      | Router Number |   ChainId    |
 |:-------------:|:-------------:|:------------:|
@@ -728,4 +745,5 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 |  Dexit   |       0       |     1020      |
 |  CloudTx   |       0       |     1030      |
 |  Cronos   |       0       |     1080      |
+| OKB Chain |       0       |     1090      |
 ###### [Back to top](README_TestNet.md#menu)
